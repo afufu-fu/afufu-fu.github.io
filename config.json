@@ -1,28 +1,6 @@
 {
-    "title":"Afu's Blog",
-    "subTitle":"ababa",
+    "title":"Meekdai",
+    "subTitle":"童话是一种生活态度，仅此而已。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
-    "displayTitle":"Afu's Blog",
-    "startSite":"12/16/2024",
-    "GMEEK_VERSION":"last"
-    "onePageListNum":15,
-    "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
-    "UTC":8,
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
-    "urlMode":"pinyin",
-    "style":"",
-    "script":"",
-    "head":"",
-    "allHead":"",
-    "indexStyle":"",
-    "indexScript":"",
-    "showPostSource":1,
-    "rssSplit":"sentence",
-    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":0
 }
