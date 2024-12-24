@@ -1,7 +1,11 @@
 {
+    "title":"Afu's Blog",
+    "subTitle":"ababa",
+    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "GMEEK_VERSION":"last"
     "displayTitle":"Afu's Blog",
-    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "startSite":"12/16/2024",
+    "GMEEK_VERSION":"last"
     "onePageListNum":15,
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
